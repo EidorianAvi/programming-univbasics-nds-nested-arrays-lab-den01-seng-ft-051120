@@ -20,7 +20,7 @@ def assembled_matrix
   assembled_matrix = [
     CONVENTIONAL_PRODUCE,
     ORGANIC_PRODUCE]
-    return as
+    return assembled_matrix
 end
 
 def sorted_matrix
